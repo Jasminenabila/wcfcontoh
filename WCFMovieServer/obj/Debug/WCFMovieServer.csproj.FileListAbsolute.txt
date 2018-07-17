@@ -1,0 +1,5 @@
+c:\users\nia safitri\documents\visual studio 2012\Projects\WCFMovieServer\WCFMovieServer\bin\WCFMovieServer.dll
+c:\users\nia safitri\documents\visual studio 2012\Projects\WCFMovieServer\WCFMovieServer\bin\WCFMovieServer.pdb
+c:\users\nia safitri\documents\visual studio 2012\Projects\WCFMovieServer\WCFMovieServer\obj\Debug\WCFMovieServer.csprojResolveAssemblyReference.cache
+c:\users\nia safitri\documents\visual studio 2012\Projects\WCFMovieServer\WCFMovieServer\obj\Debug\WCFMovieServer.dll
+c:\users\nia safitri\documents\visual studio 2012\Projects\WCFMovieServer\WCFMovieServer\obj\Debug\WCFMovieServer.pdb

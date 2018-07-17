@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFMovieServer.IMovie" CodeBehind="Movie.svc.cs" %>
